@@ -1,11 +1,17 @@
 1. What are 3-5 (or more) commands that you can use on terminal and what do they do? What language is your computer terminal in?
+cd which allows you to switch directories, ls which lists what is in particular directory, mkdir which creates a new directory, and nano example.py which would create a new python file called example.py
+The language of our computer terminal is Bash which allows us to communicate directly with our computer.
 
 2. Do you have pets? What kind?
+Yes! I have a dog!
 
 3. If you run across an error, what would your first course of action be?
+Attempt to locate where the error occurred and look at the error message that shows up as often times they can be descriptive in error resolution. 
 
 4. Funniest thing that happened to you in high school.
+Our senior class prank where we let chickens loose all around campus. 
 
 5. What is a python script? (Keep it simple)
+A python script can be denoted as a collectivized group of python code that can be run to achieve a particular outcome. 
 
 
